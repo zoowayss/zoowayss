@@ -1,6 +1,5 @@
 # Hi there, I'm [Shi Zuwei]! 👋
 
-![Profile views](https://avatars.githubusercontent.com/u/78424515?v=4)
 [![GitHub followers](https://img.shields.io/github/followers/zoowayss?label=Follow&style=social)](https://github.com/zoowayss)
 
 ## 🚀 About Me
