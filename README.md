@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Shi Zuwei]! 👋
 
-![Profile views](https://gpvc.arturio.dev/zoowayss)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+![Profile views](https://avatars.githubusercontent.com/u/78424515?v=4)
+[![GitHub followers](https://img.shields.io/github/followers/zoowayss?label=Follow&style=social)](https://github.com/zoowayss)
 
 ## 🚀 About Me
 I am a passionate Java programmer with experience in developing web applications, APIs, and backend systems. I love solving complex problems and continuously learning new technologies.
