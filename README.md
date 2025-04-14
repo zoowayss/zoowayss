@@ -14,14 +14,8 @@ I am a passionate Java programmer with experience in developing web applications
 ## 🔥 Projects
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/zoowayss/collaborative-filtering)
-A brief description of project 1. This project uses Java and Spring Boot to build a robust backend system.
-
-### [Project 2](https://github.com/your-username/project2)
-A brief description of project 2. This project uses React and Node.js to create a responsive web application.
-
-### [Project 3](https://github.com/your-username/project3)
-A brief description of project 3. This project is a Python-based data analysis tool using Pandas and Matplotlib.
+### [collaborative-filtering](https://github.com/zoowayss/collaborative-filtering)
+This project uses Java and Spring Boot to build a robust backend system.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zoowayss&show_icons=true&theme=radical)
@@ -35,7 +29,7 @@ A brief description of project 3. This project is a Python-based data analysis t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoowayss&layout=compact&theme=radical)
 
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=project1&theme=radical)](https://github.com/your-username/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=collaborative-filtering&theme=radical)](https://github.com/zoowayss/collaborative-filtering)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=project2&theme=radical)](https://github.com/your-username/project2)
 
 ## ✍️ Blog Posts
