@@ -1,4 +1,4 @@
-# Hi there, I'm [Zoowayss]! 👋
+# Hi there, I'm Zoowayss! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/zoowayss?label=Follow&style=social)](https://github.com/zoowayss)
 
