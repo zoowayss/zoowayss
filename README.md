@@ -14,7 +14,7 @@ I am a passionate Java programmer with experience in developing web applications
 ## 🔥 Projects
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/your-username/project1)
+### [Project 1](https://github.com/zoowayss/collaborative-filtering)
 A brief description of project 1. This project uses Java and Spring Boot to build a robust backend system.
 
 ### [Project 2](https://github.com/your-username/project2)
@@ -24,19 +24,19 @@ A brief description of project 2. This project uses React and Node.js to create 
 A brief description of project 3. This project is a Python-based data analysis tool using Pandas and Matplotlib.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zoowayss&show_icons=true&theme=radical)
 
 ## 💼 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
 - [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:zoowayss@gmail.com)
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoowayss&layout=compact&theme=radical)
 
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=radical)](https://github.com/your-username/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=radical)](https://github.com/your-username/project2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=project1&theme=radical)](https://github.com/your-username/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=project2&theme=radical)](https://github.com/your-username/project2)
 
 ## ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -46,7 +46,7 @@ A brief description of project 3. This project is a Python-based data analysis t
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zoowayss&theme=radical)
 
 ## 🗂️ Highlights
 - 🌟 Open Source Contributor
