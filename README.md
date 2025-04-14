@@ -30,7 +30,6 @@ This project uses Java and Spring Boot to build a robust backend system.
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=collaborative-filtering&theme=radical)](https://github.com/zoowayss/collaborative-filtering)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zoowayss&repo=project2&theme=radical)](https://github.com/your-username/project2)
 
 ## ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
