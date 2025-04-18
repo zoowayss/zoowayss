@@ -17,6 +17,9 @@ Here are some of my notable projects:
 ### [collaborative-filtering](https://github.com/zoowayss/collaborative-filtering)
 This project uses Java and Spring Boot to build a robust backend system.
 
+### [requests-java](https://github.com/zoowayss/requests-java)
+A java requests client like python requests
+
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zoowayss&show_icons=true&theme=radical)
 
